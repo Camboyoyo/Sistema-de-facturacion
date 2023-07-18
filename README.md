@@ -6,7 +6,7 @@
 
 - Estoy pensando realizar un proyecto de facturación referente a los videojuegos, partiendo que los sistemas de gestion son páginas o proyectos que se encarga de, cómo su nombre lo indica gestionar o
 - llevar un control de un inventario o personal; el sistema de facturación se encarga de llevar un control de la compra y venta de los productos de dicha tienda, por lo que se consideró
-- llamarlo "Sistema de Facturación de Videojuegos - MantarrallaGames"
+- llamarlo "Sistema de Facturación de Videojuegos - MantarrayaGames"
 
 <!---
 Camboyoyo/Camboyoyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
