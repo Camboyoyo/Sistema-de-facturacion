@@ -1,5 +1,5 @@
 - 👋 Hola, mi nombre de usuario es @Camboyoyo y el real seía Roberto Daniel Contreras Betancourt portador de CI 30.699.868. 
-- 👀 Graduarme para poder profesionalizarme y llegar a mejorar mi calidad de vida y la de mis familiares.
+- 👀 Mi objetivo es graduarme para poder profesionalizarme y llegar a mejorar mi calidad de vida y la de mis familiares.
 - 🌱 Estoy aprendiendo más a fondo todo lo relacionado a la informática, para así poder sacar mi TSU. 
 - 💞️ Pienso realizar un trabajo en colaboración del compañero Carlos Valintino Aguiar Pérez cuyo nombre de usuario es @leonredfield92
 - 📫 puedes comunicarse a travez de mi correo rdcbroberto@gmail.com o contactarse a mi número +58 04142413031
